@@ -1,2 +1,2 @@
-# FunnyGame
-Very hilarious game
+# Among Us Minigame
+Very hilarious minigame thing maybe
