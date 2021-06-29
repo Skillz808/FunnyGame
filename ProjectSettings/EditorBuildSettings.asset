@@ -11,4 +11,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GamePlay.unity
     guid: 62acdbd4cd643954d95a116421313dfb
+  - enabled: 1
+    path: Assets/Scenes/CardGamePlay.unity
+    guid: b85b22d50a0ed53479b3754cfca3b442
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: fe5a3731d1d43644f9407d39aeb501a1
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 691eb71f760cc814db74cb7da487f0ef
+  - enabled: 1
+    path: Assets/Scenes/NewHighScore.unity
+    guid: d616c2a8b4d7afd47837c893a32a63a8
   m_configObjects: {}
